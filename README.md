@@ -1,6 +1,6 @@
 ## My stuff
 
-- Simulate energy consumption and savings from solar panels: [EnergyProfile](energyprofile.officiarte.it)
+- [EnergyProfile](energyprofile.officiarte.it): How much do we save by adding solar panels to a house?
 
 <!--
 **gustavoiha/gustavoiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
